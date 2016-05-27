@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Colors</key>
+	<dict>
+		<key>Primary</key>
+		<string>7CA272</string>
+		<key>Secondary</key>
+		<string>BF8687</string>
+		<key>TextDark</key>
+		<string>661141</string>
+		<key>TextLight</key>
+		<string>882D61</string>
+		<key>TextDefault</key>
+		<string>444444</string>
+		<key>BackgroundPrimary</key>
+		<string>C9C2A1</string>
+		<key>BackgroundSecondary</key>
+		<string>77738B</string>
+		<key>CallToAction</key>
+		<string>5AA247</string>
+	</dict>
+	<key>Fonts</key>
+	<dict>
+		<key>PrimaryLight</key>
+		<string>Copperplate-Light</string>
+		<key>PrimaryRegular</key>
+		<string>Copperplate</string>
+		<key>PrimarySemibold</key>
+		<string>Copperplate-Bold</string>
+		<key>PrimaryBold</key>
+		<string>Copperplate-Bold</string>
+		<key>SecondaryLight</key>
+		<string>ArialMT</string>
+		<key>SecondaryRegular</key>
+		<string>ArialMT</string>
+		<key>SecondarySemibold</key>
+		<string>Arial-BoldMT</string>
+		<key>SecondaryBold</key>
+		<string>Arial-BoldMT</string>
+	</dict>
+</dict>
+</plist>
